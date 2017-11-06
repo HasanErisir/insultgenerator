@@ -1,0 +1,2 @@
+# insultgenerator
+An insult generator.
